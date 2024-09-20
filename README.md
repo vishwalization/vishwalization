@@ -1,6 +1,11 @@
 ## Hi 👋 This is Vishwanathan AK 
 
 ### About Me
+
+  • 👨‍🎓 Integrated MSc in Chemistry @ IIT Kharagpur.
+  • 🫧 Currently working on Defect Detecion on Ultrasound Images(TOFD).
+
+
 <!--
 **vishwalization/vishwalization** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
