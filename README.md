@@ -2,7 +2,7 @@
 
 ### About Me
 
-  • 👨‍🎓 Integrated MSc in Chemistry @ IIT Kharagpur.
+  • 👨‍🎓 Integrated MSc in Chemistry @ IIT Kharagpur.<br>
   • 🫧 Currently working on Defect Detecion on Ultrasound Images(TOFD).
 
 
